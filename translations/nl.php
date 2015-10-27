@@ -1,7 +1,7 @@
 <?php
 
 // Dutch translations
-array(
+return array(
     'Email Address' => 'E-mailadres',
     'Phone Number' => 'Telefoonnummer',
     'Custom URL' => 'Handmatige URL',
