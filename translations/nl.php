@@ -2,6 +2,7 @@
 
 // Dutch translations
 return array(
+    'Link To...' => 'Link naar...',
     'Email Address' => 'E-mailadres',
     'Phone Number' => 'Telefoonnummer',
     'Custom URL' => 'Handmatige URL',

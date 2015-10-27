@@ -136,7 +136,7 @@ class Linkit_LinkitFieldType extends BaseFieldType
     	
     	// Linkit Types
 		$availableTypes = $this->getLinkitTypes();	   
-		$types = array('' => 'Link To...');
+		$types = array('' => Craft::t('Link To...'));
 		$isSingleType = false;
        	if(is_array($settings['types']))
     	{
