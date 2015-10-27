@@ -21,12 +21,12 @@ class Linkit_LinkitFieldType extends BaseFieldType
 	public function getLinkitTypes()
 	{
 		return array(
-			'email' => 'Email Address',
-			'tel' => 'Phone Number',
-			'custom' => 'Custom URL',
-			'entry' => 'Entry',
-			'category' => 'Category',
-			'asset' => 'Asset'
+			'email' => Craft::t('Email Address'),
+			'tel' => Craft::t('Phone Number'),
+			'custom' => Craft::t('Custom URL'),
+			'entry' => Craft::t('Entry'),
+			'category' => Craft::t('Category'),
+			'asset' => Craft::t('Asset')
 		);
 	}
 	
