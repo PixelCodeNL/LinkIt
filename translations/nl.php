@@ -15,4 +15,5 @@ return array(
     'Please select an entry.' => 'Selecteer een pagina.',
     'Please select an asset.' => 'Selecteer een bestand.',
     'Please select a category.' => 'Selecteer een categorie.',
+    'Open link in new window?' => 'Open link in een nieuw venster?'
 );
